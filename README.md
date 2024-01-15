@@ -1,4 +1,4 @@
-# Machine Learning Project Overview
+# Project Overview
 
 ## Table of Contents
 - [Data Preprocessing 1](#data-preprocessing-1)
