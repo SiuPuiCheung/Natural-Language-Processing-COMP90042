@@ -1,6 +1,7 @@
 # Automated-Fact-Checking-System
 
 ## Project Overview
+This project applies LLM models and 2 traditional machine learning models to perform fact-checking prediction. It explores different ML algorithms to optimize the evidence retrievals and fact-checking classifications.
 
 ## Table of Contents
 - [Data Preprocessing 1](#data-preprocessing-1)
