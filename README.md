@@ -1,4 +1,6 @@
-# Project Overview
+# Automated-Fact-Checking-System
+
+## Project Overview
 
 ## Table of Contents
 - [Data Preprocessing 1](#data-preprocessing-1)
